@@ -1,0 +1,376 @@
+Package: attrib
+Version: 2020.9.1
+Depends: R (>= 3.5.0)
+Imports: data.table, magrittr, glue, pbs, dlnm, lubridate, mvmeta,
+        tsModel, stats, lme4, arm, tibble, stringr, ggplot2, utils,
+        progress
+Suggests: testthat, knitr, rmarkdown
+License: GPL-3
+MD5sum: bc51852757cff0db8eacdd642d5c6734
+NeedsCompilation: no
+
+Package: attrib
+Version: 2021.1.26
+Depends: R (>= 3.5.0)
+Imports: data.table, magrittr, glue, pbs, dlnm, lubridate, mvmeta,
+        tsModel, stats, lme4, arm, tibble, stringr, ggplot2, utils,
+        progress
+Suggests: testthat, knitr, rmarkdown
+License: GPL-3
+MD5sum: 26ba691433c992c8eca7fc5a2b083d97
+NeedsCompilation: no
+
+Package: autosurveillance
+Version: 2020.3.2
+Depends: R (>= 3.5.0)
+Imports: data.table, fhidata, magrittr, fhi, fhiplot, fs, glue,
+        writexl, ggplot2, readxl, stringr, lubridate, RODBC, org, plnr,
+        dbplyr, dplyr, stats, utils
+Suggests: knitr, rmarkdown
+License: GPL-3
+MD5sum: e78c709f6a29bfec1cd692705a460461
+NeedsCompilation: no
+
+Package: brain
+Version: 2020.03.15
+Depends: R (>= 3.4.0)
+Imports: data.table, R6, fd, fhidata, attrib, ggplot2, magrittr, dplyr,
+        fhi, glue, zoo, lubridate, FluMoDL, fancycut, flumomo, readxl,
+        stringr
+Suggests: testthat, knitr, rmarkdown
+License: GPL-3
+MD5sum: 1e65e1d62b359471c1721064b62186a4
+NeedsCompilation: no
+
+Package: drathelper
+Version: 2020.9.2
+Depends: R (>= 3.3.0)
+Imports: drat, devtools
+Suggests: testthat, knitr, rmarkdown, data.table, glue, httr, huxtable,
+        miniCRAN, stringr
+License: GPL-3
+MD5sum: 6f3adb49c327d331823d6f6432f05cf1
+NeedsCompilation: no
+
+Package: fd
+Version: 2020.03.03
+Depends: R (>= 3.5.0)
+Imports: data.table, fhidata, glue, dplyr, rlang, stringr, DBI,
+        methods, R6, magrittr, stats, fs, odbc, uuid, devtools,
+        lubridate, fhi, ncdf4, reshape2, zoo, readxl, httr, withr,
+        xml2, utils, processx, lme4, epitrix
+Suggests: testthat, mockery, knitr
+License: GPL-3
+MD5sum: 2ee70ff00e8d9443d9ffd6f287c925e9
+NeedsCompilation: no
+
+Package: fhi
+Version: 2020.8.19
+Depends: R (>= 3.5.0)
+Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
+        broom, magrittr, lubridate, data.table, scales, tinytex, uuid,
+        processx, devtools, zoo, utils, fhidata, fs, glue, vctrs,
+        methods
+Suggests: testthat, knitr, usethis
+License: GPL-3
+MD5sum: 08e60db89eb575d08c5f04aefeccdee4
+NeedsCompilation: no
+
+Package: fhidata
+Version: 2020.11.11
+Depends: R (>= 3.5.0)
+Imports: data.table
+Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper,
+        rgeos, mapproj, ggplot2, stringr, glue, lubridate, readxl, zoo,
+        crayon, fs, utils, sp, forcats, ncdf4, reshape2, sf, methods
+License: GPL-3
+MD5sum: fd6ffbfc3e2511de2c9ad1a5e2ec0b68
+NeedsCompilation: no
+
+Package: fhidata
+Version: 2020.11.25
+Depends: R (>= 3.5.0)
+Imports: data.table
+Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper,
+        rgeos, mapproj, ggplot2, stringr, glue, lubridate, readxl, zoo,
+        crayon, fs, utils, sp, forcats, ncdf4, reshape2, sf, methods
+License: GPL-3
+MD5sum: 2a348022e6c10af31a700504ca26eeff
+NeedsCompilation: no
+
+Package: fhidata
+Version: 2020.12.10
+Depends: R (>= 3.5.0)
+Imports: data.table
+Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper,
+        rgeos, mapproj, ggplot2, stringr, glue, lubridate, readxl, zoo,
+        crayon, fs, utils, sp, forcats, ncdf4, reshape2, sf, methods
+License: GPL-3
+MD5sum: 225cbc5495d45ec3bb1b94582c5dfa7b
+NeedsCompilation: no
+
+Package: fhidata
+Version: 2020.12.14
+Depends: R (>= 3.5.0)
+Imports: data.table
+Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper,
+        rgeos, mapproj, ggplot2, stringr, glue, lubridate, readxl, zoo,
+        crayon, fs, utils, sp, forcats, ncdf4, reshape2, sf, methods
+License: GPL-3
+MD5sum: 9444700cab8e10c3374edcb4007a3c72
+NeedsCompilation: no
+
+Package: fhidata
+Version: 2020.12.15
+Depends: R (>= 3.5.0)
+Imports: data.table
+Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper,
+        rgeos, mapproj, ggplot2, stringr, glue, lubridate, readxl, zoo,
+        crayon, fs, utils, sp, forcats, ncdf4, reshape2, sf, methods
+License: GPL-3
+MD5sum: 405176be963385224c2a067a4e756b03
+NeedsCompilation: no
+
+Package: fhidata
+Version: 2020.12.3
+Depends: R (>= 3.5.0)
+Imports: data.table
+Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper,
+        rgeos, mapproj, ggplot2, stringr, glue, lubridate, readxl, zoo,
+        crayon, fs, utils, sp, forcats, ncdf4, reshape2, sf, methods
+License: GPL-3
+MD5sum: 67c3f772ad2e5320a661a08bbcad892b
+NeedsCompilation: no
+
+Package: fhidata
+Version: 2021.1.14
+Depends: R (>= 3.5.0)
+Imports: data.table
+Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper,
+        rgeos, mapproj, ggplot2, stringr, glue, lubridate, readxl, zoo,
+        crayon, fs, utils, sp, forcats, ncdf4, reshape2, sf, methods
+License: GPL-3
+MD5sum: 7dbdbc7568b15b3d843430badb3f39f2
+NeedsCompilation: no
+
+Package: fhidata
+Version: 2021.1.15
+Depends: R (>= 3.5.0)
+Imports: data.table
+Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper,
+        rgeos, mapproj, ggplot2, stringr, glue, lubridate, readxl, zoo,
+        crayon, fs, utils, sp, forcats, ncdf4, reshape2, sf, methods
+License: GPL-3
+MD5sum: 01894fc8a5deff64f0b9f33ecfe960ee
+NeedsCompilation: no
+
+Package: fhimaps
+Version: 1.0.0
+Depends: R (>= 3.5.0)
+Imports: data.table, utils
+Suggests: testthat, fhidata, knitr, rmarkdown, geojsonio, broom,
+        rmapshaper, ggplot2, rgeos, mapproj, stringr, glue, lubridate,
+        readxl, zoo, crayon, fs, sp, forcats, ncdf4, reshape2, sf,
+        methods, ggrepel, leaflet, magrittr
+License: MIT
+MD5sum: c27123575f6fbf633438c792ddcbf93a
+NeedsCompilation: no
+
+Package: fhiplot
+Version: 2020.10.9
+Depends: R (>= 3.3.0)
+Imports: ggplot2, data.table, stringr, glue, scales, huxtable
+Suggests: testthat, knitr, rmarkdown, fhidata, lubridate, lemon, fhi
+License: GPL-3
+MD5sum: b3c28d3ee5057cdb5eaf744b9e114a7e
+NeedsCompilation: no
+
+Package: fhiplot
+Version: 2020.11.23
+Depends: R (>= 3.3.0)
+Imports: ggplot2, data.table, stringr, glue, scales, huxtable
+Suggests: testthat, knitr, rmarkdown, fhidata, lubridate, lemon, fhi
+License: GPL-3
+MD5sum: f2cd05b9e94a5996fbf4e460343cb208
+NeedsCompilation: no
+
+Package: fhiplot
+Version: 2020.11.25
+Depends: R (>= 3.3.0)
+Imports: ggplot2, data.table, stringr, glue, scales, huxtable
+Suggests: testthat, knitr, rmarkdown, fhidata, lubridate, lemon, fhi
+License: GPL-3
+MD5sum: d4d07c097655d5cf43a70dfd8862483f
+NeedsCompilation: no
+
+Package: fhiplot
+Version: 2020.12.22
+Depends: R (>= 3.3.0)
+Imports: ggplot2, data.table, stringr, glue, scales, huxtable
+Suggests: testthat, knitr, rmarkdown, fhidata, lubridate, lemon, fhi
+License: GPL-3
+MD5sum: d1191f88d525a957cc42f3e198a79c5f
+NeedsCompilation: no
+
+Package: fhiplot
+Version: 2021.1.14
+Depends: R (>= 3.3.0)
+Imports: ggplot2, data.table, stringr, glue, scales, huxtable
+Suggests: testthat, knitr, rmarkdown, fhidata, lubridate, lemon, fhi
+License: GPL-3
+MD5sum: 5f7245a0e9e559b506cf4951130bcf03
+NeedsCompilation: no
+
+Package: fhiplot
+Version: 2021.1.22
+Depends: R (>= 3.3.0)
+Imports: ggplot2, data.table, stringr, glue, scales, huxtable
+Suggests: testthat, knitr, rmarkdown, fhidata, lubridate, lemon, fhi
+License: GPL-3
+MD5sum: 01321baad410f3aa5770172a040ba863
+NeedsCompilation: no
+
+Package: fhiplot
+Version: 2021.1.25
+Depends: R (>= 3.3.0)
+Imports: ggplot2, magrittr, data.table, stringr, glue, scales,
+        huxtable, htmlTable
+Suggests: testthat, knitr, rmarkdown, fhidata, lubridate, lemon, fhi
+License: MIT
+MD5sum: 1e6cfd5119e30c8c87c7f98bc13c9cde
+NeedsCompilation: no
+
+Package: flumomo
+Version: 2020.2.19
+Depends: R (>= 3.5.0)
+Imports: data.table, magrittr, ISOweek, utils, stats
+Suggests: testthat, knitr, rmarkdown
+License: GPL-3
+MD5sum: 567932397dee83045628c4271b977a99
+NeedsCompilation: no
+
+Package: noispiah
+Version: 2020.01.23
+Depends: R (>= 3.4.0)
+Imports: fhi, RAWmisc, data.table, lubridate, xtable, rmarkdown,
+        stringr, ggplot2, processx, readxl, uuid, crayon, glue, lemon,
+        scales, fhiplot, R6, plnr, dplyr, fd, fhidata, fs
+Suggests: testthat
+License: GPL-3
+MD5sum: 30780e8e84dca2e08b5c3d29bb2b4eed
+NeedsCompilation: no
+
+Package: normomo
+Version: 2020.03.15
+Depends: R (>= 3.4.0)
+Imports: MOMO, ggplot2, grid, maptools, rmarkdown, stringr, readxl,
+        gmailr, broom, magrittr, lubridate, data.table, caTools, utils,
+        fhi, RAWmisc, gridExtra, grDevices, stats, zip, openxlsx, R6,
+        fd, fs, fhidata, fhiplot, dplyr, glue, httr, huxtable, car
+Suggests: testthat, knitr
+License: GPL-3
+MD5sum: 4745d3d44460f527db8adc85bb04e098
+NeedsCompilation: no
+
+Package: org
+Version: 2020.5.25
+Depends: R (>= 3.3.0)
+Suggests: testthat, knitr, rmarkdown, rstudioapi, glue
+License: GPL-3
+MD5sum: 776d026ebf665addf525ebf56471a9da
+NeedsCompilation: no
+
+Package: plnr
+Version: 2020.9.24
+Depends: R (>= 3.3.0)
+Imports: data.table, methods, R6, uuid, foreach, fs, glue, org (>=
+        2020.2.18), usethis, huxtable, purrr
+Suggests: testthat, knitr, rmarkdown, progressr, ggplot2, readxl
+License: GPL-3
+MD5sum: ab442c88b7c89c682b6ae78c1c9fb465
+NeedsCompilation: no
+
+Package: sikkersone
+Version: 2020.2.19
+Depends: R (>= 3.5.0)
+Imports: data.table, RODBC, utils
+Suggests: testthat, knitr
+License: GPL-3
+MD5sum: bf2f12ddbeb71e96c70f0f1bd4a83b5f
+NeedsCompilation: no
+
+Package: smhb
+Version: 2018.12.07
+Depends: R (>= 3.4.0)
+Imports: ggplot2, flexdashboard, rmarkdown, shiny
+Suggests: testthat, knitr, usethis
+License: GPL-3
+MD5sum: 9ff9bbded1cbfa3f6f0dcd6a827e2cff
+NeedsCompilation: no
+
+Package: spread
+Version: 2020.9.16
+Depends: R (>= 3.5.0)
+Imports: Rcpp (>= 0.9.4), RcppProgress (>= 0.1), data.table, ggplot2,
+        fhidata (>= 2019.1.23), stringr, readxl, matrixStats, zoo,
+        foreach, magrittr, stats, future.apply
+LinkingTo: Rcpp, RcppProgress
+Suggests: testthat, knitr, glue, rmarkdown, distcrete, HDInterval,
+        epitrix
+License: GPL-3
+MD5sum: c912d2b8e494f6291f8105ca54b8f701
+NeedsCompilation: yes
+
+Package: spulsconnect
+Version: 2020.4.5
+Depends: R (>= 3.5.0)
+Imports: data.table, magrittr, progress, RODBC, glue, fs, lubridate,
+        fhidata, DBI, odbc, dplyr, dbplyr
+Suggests: testthat, knitr, rmarkdown
+License: GPL-3
+MD5sum: 9643968346cac068652c51cfee95a215
+NeedsCompilation: no
+
+Package: sykdomspuls
+Version: 2020.05.04
+Depends: R (>= 3.5.0)
+Imports: glm2, stringr, readxl, lubridate, data.table, fhi, fhidata,
+        fhiplot, httr, jsonlite, zoo, iterators, ggplot2, ggrepel,
+        dplyr, pool, RMariaDB, plumber, memoise, parallel, RAWmisc,
+        cowplot, fd, R6, pbapply, magrittr, DBI, odbc, uuid, glue,
+        huxtable, reshape2, rstanarm, fs, samplingbook, ggpubr, xlsx,
+        RODBC
+Suggests: testthat, knitr, rmarkdown, mem
+License: GPL-3
+MD5sum: 1e59e58bf8797db82340119338e500c0
+NeedsCompilation: no
+
+Package: sykdomspulslog
+Version: 2018.11.07
+Depends: R (>= 3.4.0)
+Suggests: testthat, knitr, usethis
+License: GPL-3
+MD5sum: 53b2133d3a99d03405550c0d80efd2d0
+NeedsCompilation: no
+
+Package: sykdomspulspdf
+Version: 2019.09.19
+Depends: R (>= 3.4.0)
+Imports: devtools, testthat, data.table, lubridate, grDevices, ggplot2,
+        fhi, fd, fhiplot, glue, lemon
+Suggests: testthat
+License: GPL-3
+MD5sum: 00d6a7cb47315f81ee696882344380e8
+NeedsCompilation: no
+
+Package: ui
+Version: 2020.05.07
+Depends: R (>= 3.5.0)
+Imports: data.table, R6, fd, fhidata, magrittr, RAWmisc, dplyr, fhi,
+        fhiplot, fs, glue, gridExtra, huxtable, writexl, sykdomspuls,
+        ggplot2, readxl, stringr, grDevices, cowplot, ggpubr,
+        lubridate, xlsx, magick, car, ggrepel, lemon, readr, scales
+Suggests: testthat, knitr, rmarkdown
+License: GPL-3
+MD5sum: 18799ac00d87a41af7f838545b1e3b74
+NeedsCompilation: no

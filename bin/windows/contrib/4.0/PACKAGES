@@ -1,0 +1,65 @@
+Package: autosurveillance
+Version: 2020.3.2
+Depends: R (>= 3.5.0)
+Imports: data.table, fhidata, magrittr, fhi, fhiplot, fs, glue, writexl, ggplot2,
+         readxl, stringr, lubridate, RODBC, org, plnr, dbplyr, dplyr, stats, utils
+Suggests: knitr, rmarkdown
+License: GPL-3
+
+Package: fhi
+Version: 2020.8.19
+Depends: R (>= 3.5.0)
+Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr, broom, magrittr,
+         lubridate, data.table, scales, tinytex, uuid, processx, devtools, zoo,
+         utils, fhidata, fs, glue, vctrs, methods
+Suggests: testthat, knitr, usethis
+License: GPL-3
+
+Package: fhidata
+Version: 2020.11.11
+Depends: R (>= 3.5.0)
+Imports: data.table
+Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper, rgeos, mapproj,
+         ggplot2, stringr, glue, lubridate, readxl, zoo, crayon, fs, utils, sp,
+         forcats, ncdf4, reshape2, sf, methods
+License: GPL-3
+
+Package: fhiplot
+Version: 2020.9.2
+Depends: R (>= 3.3.0)
+Imports: ggplot2, data.table, stringr, glue, scales, huxtable
+Suggests: testthat, knitr, rmarkdown, fhidata, lubridate, lemon, fhi
+License: GPL-3
+
+Package: org
+Version: 2020.5.25
+Depends: R (>= 3.3.0)
+Suggests: testthat, knitr, rmarkdown, rstudioapi, glue
+License: GPL-3
+
+Package: plnr
+Version: 2020.5.11
+Depends: R (>= 3.3.0)
+Imports: data.table, methods, R6, uuid, foreach, fs, glue, org (>= 2020.2.18),
+         usethis, huxtable
+Suggests: testthat, knitr, rmarkdown, progressr, ggplot2, readxl
+License: GPL-3
+
+Package: spread
+Version: 2020.9.16
+Depends: R (>= 3.5.0)
+Imports: Rcpp (>= 0.9.4), RcppProgress (>= 0.1), data.table, ggplot2, fhidata (>=
+         2019.1.23), stringr, readxl, matrixStats, zoo, foreach, magrittr, stats,
+         future.apply
+LinkingTo: Rcpp, RcppProgress
+Suggests: testthat, knitr, glue, rmarkdown, distcrete, HDInterval, epitrix
+License: GPL-3
+Archs: i386, x64
+
+Package: spulsconnect
+Version: 2020.4.5
+Depends: R (>= 3.5.0)
+Imports: data.table, magrittr, progress, RODBC, glue, fs, lubridate, fhidata, DBI,
+         odbc, dplyr, dbplyr
+Suggests: testthat, knitr, rmarkdown
+License: GPL-3
