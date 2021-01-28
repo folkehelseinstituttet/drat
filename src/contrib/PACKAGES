@@ -302,6 +302,14 @@ License: GPL-3
 MD5sum: 776d026ebf665addf525ebf56471a9da
 NeedsCompilation: no
 
+Package: org
+Version: 2021.1.28
+Depends: R (>= 3.3.0)
+Suggests: testthat, knitr, rmarkdown, rstudioapi, glue
+License: MIT
+MD5sum: e728283aef17c5f9d224a71a325edc86
+NeedsCompilation: no
+
 Package: plnr
 Version: 2020.9.24
 Depends: R (>= 3.3.0)
