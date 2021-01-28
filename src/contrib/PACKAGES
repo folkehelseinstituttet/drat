@@ -284,10 +284,10 @@ Package: plnr
 Version: 2020.9.24
 Depends: R (>= 3.3.0)
 Imports: data.table, methods, R6, uuid, foreach, fs, glue, org (>=
-        2020.2.18), usethis, huxtable, purrr
+        2020.2.18), usethis, huxtable, purrr, utils
 Suggests: testthat, knitr, rmarkdown, progressr, ggplot2, readxl
-License: GPL-3
-MD5sum: ab442c88b7c89c682b6ae78c1c9fb465
+License: MIT
+MD5sum: 3c041a3c3e1c0eac413ed4f2e5997b3d
 NeedsCompilation: no
 
 Package: sikkersone
