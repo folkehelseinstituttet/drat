@@ -363,7 +363,7 @@ LinkingTo: Rcpp, RcppProgress
 Suggests: testthat, knitr, glue, rmarkdown, distcrete, HDInterval,
         epitrix
 License: GPL-3
-MD5sum: 3357120b4e5a8ccf6c6a68f0d1cbb099
+MD5sum: 1152632fa556bddcd4e62e12402db6ae
 NeedsCompilation: yes
 
 Package: spulsconnect
