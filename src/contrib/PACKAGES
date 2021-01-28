@@ -307,7 +307,7 @@ Version: 2021.1.28
 Depends: R (>= 3.3.0)
 Suggests: testthat, knitr, rmarkdown, rstudioapi, glue
 License: MIT
-MD5sum: e728283aef17c5f9d224a71a325edc86
+MD5sum: ae3baebf99fdcbc8a1723c80ad2a3509
 NeedsCompilation: no
 
 Package: plnr
