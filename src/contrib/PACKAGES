@@ -297,7 +297,7 @@ Imports: data.table, methods, R6, uuid, foreach, fs, glue, org (>=
         2020.2.18), usethis, huxtable, purrr, utils
 Suggests: testthat, knitr, rmarkdown, progressr, ggplot2, readxl
 License: MIT
-MD5sum: f72ec82926fa38be1acfc567ec0eb6dc
+MD5sum: 667f177c41269a800536384f94c365a9
 NeedsCompilation: no
 
 Package: sikkersone
