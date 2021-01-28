@@ -353,6 +353,19 @@ License: GPL-3
 MD5sum: c912d2b8e494f6291f8105ca54b8f701
 NeedsCompilation: yes
 
+Package: spread
+Version: 2021.1.28
+Depends: R (>= 3.5.0)
+Imports: Rcpp (>= 0.9.4), RcppProgress (>= 0.1), data.table, ggplot2,
+        fhidata (>= 2019.1.23), stringr, readxl, matrixStats, zoo,
+        foreach, magrittr, stats, future.apply
+LinkingTo: Rcpp, RcppProgress
+Suggests: testthat, knitr, glue, rmarkdown, distcrete, HDInterval,
+        epitrix
+License: GPL-3
+MD5sum: 3357120b4e5a8ccf6c6a68f0d1cbb099
+NeedsCompilation: yes
+
 Package: spulsconnect
 Version: 2020.4.5
 Depends: R (>= 3.5.0)
