@@ -176,6 +176,18 @@ License: MIT
 MD5sum: c27123575f6fbf633438c792ddcbf93a
 NeedsCompilation: no
 
+Package: fhimaps
+Version: 2021.1.28
+Depends: R (>= 3.5.0)
+Imports: data.table, utils
+Suggests: testthat, fhidata, knitr, rmarkdown, geojsonio, broom,
+        rmapshaper, ggplot2, rgeos, mapproj, stringr, glue, lubridate,
+        readxl, zoo, crayon, fs, sp, forcats, ncdf4, reshape2, sf,
+        methods, ggrepel, leaflet, magrittr
+License: MIT
+MD5sum: 17d02e94375495411fbb7cda08148815
+NeedsCompilation: no
+
 Package: fhiplot
 Version: 2020.10.9
 Depends: R (>= 3.3.0)
