@@ -259,7 +259,17 @@ Imports: ggplot2, magrittr, data.table, stringr, glue, scales,
         huxtable, htmlTable
 Suggests: testthat, knitr, rmarkdown, fhidata, lubridate, lemon, fhi
 License: MIT
-MD5sum: 67fa0495db5e7dc1c2975b221fecce4b
+MD5sum: d9d3fc2ded4fa35f1f0e83befa59b1ad
+NeedsCompilation: no
+
+Package: fhiplot
+Version: 2021.1.29
+Depends: R (>= 3.3.0)
+Imports: ggplot2, magrittr, data.table, stringr, glue, scales,
+        huxtable, htmlTable
+Suggests: testthat, knitr, rmarkdown, fhidata, lubridate, lemon, fhi
+License: MIT
+MD5sum: 51ae864270df46722596f640062f6925
 NeedsCompilation: no
 
 Package: flumomo
