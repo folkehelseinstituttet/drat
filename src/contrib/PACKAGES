@@ -279,7 +279,7 @@ Imports: ggplot2, magrittr, data.table, stringr, glue, scales,
         huxtable, htmlTable
 Suggests: testthat, knitr, rmarkdown, fhidata, lubridate, lemon, fhi
 License: MIT
-MD5sum: d374ee788068da35637d3f83e0ef2fb2
+MD5sum: 90aa9a02ff10585b5a90497362ae4023
 NeedsCompilation: no
 
 Package: flumomo
