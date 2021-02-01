@@ -20,6 +20,17 @@ License: GPL-3
 MD5sum: 26ba691433c992c8eca7fc5a2b083d97
 NeedsCompilation: no
 
+Package: attrib
+Version: 2021.2.1
+Depends: R (>= 3.5.0)
+Imports: data.table, magrittr, glue, pbs, dlnm, lubridate, mvmeta,
+        tsModel, stats, lme4, arm, tibble, stringr, ggplot2, utils,
+        progress
+Suggests: testthat, knitr, rmarkdown
+License: MIT
+MD5sum: 74e7c7a37f14c52181f995d1757491da
+NeedsCompilation: no
+
 Package: autosurveillance
 Version: 2020.3.2
 Depends: R (>= 3.5.0)
