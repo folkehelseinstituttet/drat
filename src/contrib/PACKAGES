@@ -28,7 +28,7 @@ Imports: data.table, magrittr, glue, pbs, dlnm, lubridate, mvmeta,
         progress
 Suggests: testthat, knitr, rmarkdown
 License: MIT
-MD5sum: 74e7c7a37f14c52181f995d1757491da
+MD5sum: 211d457aedf4a7314cc697d05f2f9669
 NeedsCompilation: no
 
 Package: autosurveillance
