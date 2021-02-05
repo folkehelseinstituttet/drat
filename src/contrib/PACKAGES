@@ -488,7 +488,7 @@ Imports: data.table, magrittr, progress, RODBC, glue, fs, DBI, odbc,
         dplyr, openssl, qs, stringr
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 8027bac18816621a52f8683c71972a46
+MD5sum: 6e2c7c5b2c25d83275bafdf7ce55f692
 NeedsCompilation: no
 
 Package: sykdomspuls
