@@ -411,7 +411,7 @@ Imports: doFuture, data.table, crayon, DBI, devtools, dplyr, foreach,
         rlang, rstudioapi, stringr, tidyr, uuid
 Suggests: testthat, knitr, usethis
 License: GPL-3 + file LICENSE
-MD5sum: a1ddb0ab9bc4a34e07d24c32cd74b32d
+MD5sum: 3680e6e7535b1b6661524d90d9e32bc9
 NeedsCompilation: no
 
 Package: sikkersone
