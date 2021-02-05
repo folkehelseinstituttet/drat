@@ -402,6 +402,18 @@ License: MIT
 MD5sum: 1e1cfba016e7bb77991e2e344c61f3cd
 NeedsCompilation: no
 
+Package: sc
+Version: 7.1.1
+Depends: R (>= 3.5.0)
+Imports: doFuture, data.table, crayon, DBI, devtools, dplyr, foreach,
+        fs, future, glue, lubridate, magrittr, odbc, openssl, plnr (>=
+        2020.5.11), processx, progress, progressr, qs, R6, RODBC,
+        rlang, rstudioapi, stringr, tidyr, uuid
+Suggests: testthat, knitr, usethis
+License: GPL-3 + file LICENSE
+MD5sum: a1ddb0ab9bc4a34e07d24c32cd74b32d
+NeedsCompilation: no
+
 Package: sikkersone
 Version: 2020.2.19
 Depends: R (>= 3.5.0)
