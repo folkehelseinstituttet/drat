@@ -481,6 +481,16 @@ License: GPL-3
 MD5sum: 9643968346cac068652c51cfee95a215
 NeedsCompilation: no
 
+Package: spulsconnect
+Version: 2021.2.5
+Depends: R (>= 3.5.0)
+Imports: data.table, magrittr, progress, RODBC, glue, fs, DBI, odbc,
+        dplyr, openssl, qs, stringr
+Suggests: testthat, knitr, rmarkdown
+License: GPL-3
+MD5sum: 8027bac18816621a52f8683c71972a46
+NeedsCompilation: no
+
 Package: sykdomspuls
 Version: 2020.05.04
 Depends: R (>= 3.5.0)
