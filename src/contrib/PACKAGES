@@ -194,7 +194,7 @@ Suggests: testthat, knitr, rmarkdown, geojsonio, broom, rmapshaper,
         rgeos, mapproj, ggplot2, stringr, glue, lubridate, readxl, zoo,
         crayon, fs, utils, sp, forcats, ncdf4, reshape2, sf, methods
 License: GPL-3
-MD5sum: ca74b66f1c5e297fe4f4b4fd2e74ff3b
+MD5sum: 18b1f2c1404d6871043aadad5158c809
 NeedsCompilation: no
 
 Package: fhimaps
