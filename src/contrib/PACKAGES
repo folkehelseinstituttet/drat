@@ -217,9 +217,9 @@ Imports: data.table, utils
 Suggests: testthat, broom, crayon, dplyr, forcats, fs, geojsonio,
         ggplot2, glue, knitr, lubridate, mapproj, methods, ncdf4,
         readxl, reshape2, rmarkdown, rmapshaper, rgeos, stringr, sp,
-        sf, utils, zoo
+        sf, zoo
 License: GPL-3
-MD5sum: 98e6c02ab454ebc3988b27e12992b62d
+MD5sum: b351be09b339a9c6133229c0d4f5aebc
 NeedsCompilation: no
 
 Package: fhidata
