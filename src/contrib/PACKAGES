@@ -223,6 +223,18 @@ MD5sum: 1bd6ee343fa4e566d069f638e3d0b2cb
 NeedsCompilation: no
 
 Package: fhidata
+Version: 2021.2.17
+Depends: R (>= 3.5.0)
+Imports: data.table, stats, utils
+Suggests: testthat, broom, crayon, dplyr, forcats, fs, geojsonio,
+        ggplot2, glue, knitr, lubridate, mapproj, methods, ncdf4,
+        readxl, reshape2, rmarkdown, rmapshaper, rgeos, stringr, sp,
+        sf, zoo
+License: GPL-3
+MD5sum: a1e6e5d234f675d3305dae6c25eddcac
+NeedsCompilation: no
+
+Package: fhidata
 Version: 2021.2.5
 Depends: R (>= 3.5.0)
 Imports: data.table, utils
