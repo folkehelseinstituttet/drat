@@ -418,7 +418,7 @@ Imports: ggplot2, magrittr, data.table, stringr, glue, scales,
 Suggests: testthat, knitr, rmarkdown, fhidata, fhimaps, lubridate,
         lemon, fhi
 License: MIT
-MD5sum: 8f8b485afe4b8c51d411edb029a7b532
+MD5sum: 1ff70661eabdce69651ea64c156ad47b
 NeedsCompilation: no
 
 Package: flumomo
