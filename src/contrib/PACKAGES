@@ -243,7 +243,7 @@ Suggests: testthat, broom, crayon, dplyr, forcats, fs, geojsonio,
         readxl, reshape2, rmarkdown, rmapshaper, rgeos, stringr, sp,
         sf, zoo
 License: GPL-3
-MD5sum: e9d8b71b1503bec287b9054310538cc8
+MD5sum: 59e26a5082e38df19192f5127e742f93
 NeedsCompilation: no
 
 Package: fhidata
