@@ -313,7 +313,7 @@ Suggests: testthat, broom, crayon, dplyr, forcats, fs, geojsonio,
         readxl, reshape2, rmarkdown, rmapshaper, rgeos, stringr, sp,
         sf, zoo
 License: GPL-3
-MD5sum: 596b95a69aaea80a13cfcb57cf83e94e
+MD5sum: 17b84b4cdca7acb25852ac09a10b02ed
 NeedsCompilation: no
 
 Package: fhimaps
