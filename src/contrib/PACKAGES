@@ -542,6 +542,17 @@ MD5sum: 1ff70661eabdce69651ea64c156ad47b
 NeedsCompilation: no
 
 Package: fhiplot
+Version: 2021.3.19
+Depends: R (>= 3.3.0)
+Imports: data.table, ggplot2, glue, huxtable, htmlTable, magrittr,
+        purrr, stringr, scales,
+Suggests: testthat, knitr, rmarkdown, fhidata, fhimaps, lubridate,
+        lemon, fhi
+License: MIT
+MD5sum: b944fe0f88a0e00e873ca60ed18f1c17
+NeedsCompilation: no
+
+Package: fhiplot
 Version: 2021.3.2
 Depends: R (>= 3.3.0)
 Imports: data.table, ggplot2, glue, huxtable, htmlTable, magrittr,
