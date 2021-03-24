@@ -563,6 +563,17 @@ License: MIT
 MD5sum: c9459f167e4bfcf3933eeb1aba36931b
 NeedsCompilation: no
 
+Package: fhiplot
+Version: 2021.3.24
+Depends: R (>= 3.3.0)
+Imports: data.table, ggplot2, glue, huxtable, htmlTable, magrittr,
+        openxlsx, purrr, rstudioapi, stringr, scales,
+Suggests: testthat, knitr, rmarkdown, datasets, fhidata, fhimaps,
+        lubridate, lemon, fhi
+License: MIT
+MD5sum: c6170612d7205e627103218b80663083
+NeedsCompilation: no
+
 Package: flumomo
 Version: 2020.2.19
 Depends: R (>= 3.5.0)
