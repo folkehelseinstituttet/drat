@@ -397,7 +397,7 @@ Suggests: testthat, broom, crayon, dplyr, forcats, fs, geojsonio,
         readxl, reshape2, rmarkdown, rmapshaper, rgeos, stringr, sp,
         sf, zoo
 License: GPL-3
-MD5sum: 64b8e6d58d3acf84bb72619d17f28365
+MD5sum: 6ab2b7c19520f9acf6e66107805fdb69
 NeedsCompilation: no
 
 Package: fhimaps
