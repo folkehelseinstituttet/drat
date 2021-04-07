@@ -388,6 +388,18 @@ License: GPL-3
 MD5sum: 1c0466898e0d613a2e8adf16bcd448e8
 NeedsCompilation: no
 
+Package: fhidata
+Version: 2021.4.7
+Depends: R (>= 3.5.0)
+Imports: data.table, stats, utils
+Suggests: testthat, broom, crayon, dplyr, forcats, fs, geojsonio,
+        ggplot2, glue, knitr, lubridate, mapproj, methods, ncdf4,
+        readxl, reshape2, rmarkdown, rmapshaper, rgeos, stringr, sp,
+        sf, zoo
+License: GPL-3
+MD5sum: b38983bd30058ab10b6660f2ca826d22
+NeedsCompilation: no
+
 Package: fhimaps
 Version: 1.0.0
 Depends: R (>= 3.5.0)
