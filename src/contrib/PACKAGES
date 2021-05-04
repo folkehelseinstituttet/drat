@@ -771,7 +771,7 @@ Imports: data.table, methods, R6, uuid, foreach, fs, glue, org (>=
         2020.2.18), usethis, huxtable, purrr, utils
 Suggests: testthat, knitr, rmarkdown, progressr, ggplot2, readxl
 License: MIT
-MD5sum: 342f226d44e79a26c2d7f4f79952d729
+MD5sum: 37820192cd008cdc1bdaeb14b6bb70d6
 NeedsCompilation: no
 
 Package: sc
