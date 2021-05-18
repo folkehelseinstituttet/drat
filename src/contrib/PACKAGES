@@ -856,6 +856,19 @@ License: GPL-3 + file LICENSE
 MD5sum: 4bc8a52cb5f089c5cedb68654514bf57
 NeedsCompilation: no
 
+Package: sc
+Version: 8.0.0
+Depends: R (>= 3.5.0)
+Imports: doFuture, data.table, crayon, DBI, devtools, dplyr, fhidata,
+        fhiplot, foreach, fs, future, glue, lubridate, magrittr, odbc,
+        openssl, parallel, pbmcapply, plnr (>= 2021.5.4), processx,
+        progress, progressr, qs, R6, RODBC, rlang, rstudioapi, stringr,
+        tidyr, uuid
+Suggests: testthat, knitr, usethis
+License: GPL-3 + file LICENSE
+MD5sum: 00c709282bae934bd4ef094d942e5132
+NeedsCompilation: no
+
 Package: sikkersone
 Version: 2020.2.19
 Depends: R (>= 3.5.0)
