@@ -799,6 +799,16 @@ MD5sum: 1e1cfba016e7bb77991e2e344c61f3cd
 NeedsCompilation: no
 
 Package: plnr
+Version: 2021.5.19
+Depends: R (>= 3.3.0)
+Imports: data.table, methods, R6, uuid, foreach, fs, glue, org (>=
+        2020.2.18), usethis, huxtable, purrr, utils
+Suggests: testthat, knitr, rmarkdown, progressr, ggplot2, readxl
+License: MIT
+MD5sum: 4d4228e0d3ad5597c13a53534be1aace
+NeedsCompilation: no
+
+Package: plnr
 Version: 2021.5.4
 Depends: R (>= 3.3.0)
 Imports: data.table, methods, R6, uuid, foreach, fs, glue, org (>=
