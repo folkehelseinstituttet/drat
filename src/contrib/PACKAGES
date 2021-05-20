@@ -876,7 +876,7 @@ Imports: doFuture, data.table, crayon, DBI, devtools, dplyr, fhidata,
         tidyr, uuid
 Suggests: testthat, knitr, usethis
 License: GPL-3 + file LICENSE
-MD5sum: 2b34d58adeb7446535db7a88643f7a27
+MD5sum: 36da1727c127673a174700296f431a0d
 NeedsCompilation: no
 
 Package: sikkersone
