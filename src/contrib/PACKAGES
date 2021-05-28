@@ -901,14 +901,13 @@ NeedsCompilation: no
 Package: sc
 Version: 8.0.0
 Depends: R (>= 3.5.0)
-Imports: doFuture, data.table, crayon, DBI, devtools, dplyr, fhidata,
-        fhiplot, foreach, fs, future, glue, lubridate, magrittr, odbc,
-        openssl, parallel, pbmcapply, plnr (>= 2021.5.4), processx,
-        progress, progressr, qs, R6, RODBC, rlang, rstudioapi, stringr,
-        tidyr, uuid
+Imports: doFuture, data.table, crayon, DBI, dplyr, fhidata, fhiplot,
+        foreach, fs, future, glue, lubridate, magrittr, odbc, openssl,
+        parallel, pbmcapply, plnr (>= 2021.5.4), processx, progress,
+        progressr, qs, R6, rlang, rstudioapi, stringr, tidyr, uuid
 Suggests: testthat, knitr, usethis
 License: GPL-3 + file LICENSE
-MD5sum: 23933212ddbde3b74922340317183a84
+MD5sum: fccccd8e17a950dd3b44e68c8fc020d4
 NeedsCompilation: no
 
 Package: sikkersone
