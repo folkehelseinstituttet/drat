@@ -26,6 +26,7 @@ Current `fhiverse` packages are:
 | [fhiplot](https://folkehelseinstituttet.github.io/fhiplot) 	| Helpful functions for creating outputs in the style used by FHI.  |
 
 ## News
+- **sc 8.0.1** (linux) inserted at 2021-06-08 12:52:16
 - **sc 8.0.1** (linux) inserted at 2021-06-08 09:53:53
 - **fhiplot 2021.6.8** (linux) inserted at 2021-06-08 07:02:05
 - **sc 8.0.1** (linux) inserted at 2021-06-04 07:52:23
