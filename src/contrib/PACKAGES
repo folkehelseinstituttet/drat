@@ -755,7 +755,7 @@ Imports: data.table, ggplot2, glue, huxtable, htmlTable, magrittr,
 Suggests: testthat, knitr, rmarkdown, datasets, fhidata, fhimaps,
         lubridate, lemon, fhi
 License: MIT
-MD5sum: 925eabd4ee91bf383d2654bf032d763c
+MD5sum: 1347f3916d104a1b23486e4e5b8c0f87
 NeedsCompilation: no
 
 Package: fhiplot
