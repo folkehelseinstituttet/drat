@@ -974,7 +974,7 @@ Imports: doFuture, data.table, crayon, DBI, dplyr, fhidata, fhiplot,
         progressr, qs, R6, rlang, rstudioapi, stringr, tidyr, uuid
 Suggests: testthat, knitr, usethis
 License: GPL-3 + file LICENSE
-MD5sum: 259d7b5881865e7f425f5af27e4e0c84
+MD5sum: 57b8e85ec1cae1f7dbbd1056714490c0
 NeedsCompilation: no
 
 Package: sikkersone
